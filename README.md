@@ -16,8 +16,10 @@ This mod is good because:
 | ---------------- | ---------------- | --------------- |
 | 1.17.1           | any              | :x:             |
 | 1.16.5           | any              | ✅              |
-| < 1.16.5         | beta0.1 (latest) | ✅ not approved |
+| < 1.16.5         | an               | ✅ not approved |
 | < 1.15.x         | any              | :x:             |
+
+
 
 # For Actual Information check out the wiki
 https://github.com/DanLP6-86/DanLP6-86.github.io/wiki/More-Items-Mod-(6)
