@@ -3,7 +3,7 @@
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Support for any Mod Version         | https://github.com/DanLP6-86/MoreItemsMod6/blob/Documentation/Support.md#suport-for-any-mod-version     |
 | Why isn´t it comp. with the 1.17.x  | https://github.com/DanLP6-86/MoreItemsMod6/blob/Documentation/Support.md#why-isnt-it-comp-with-the-117x |
-| < 1.16.5         |  |
+| Why isn´t it comp. with <1.14.x     |  |
 | < 1.15.x         |  |
 | < 1.14.x         |  |
 
@@ -24,3 +24,7 @@
 ## Why isn´t it comp. with the 1.17.x
 
 This is an easy answer. As long as it isn´t possible to use the exact same code for 1.15.x-1.16.x and 1.17.x I´ll not have enough time and knowledge coding with the JDK 11. So please Understand my point. But there are also mods (which are compatible with mine) where you can play in 1.16.x as you were in 1.17(.x).
+
+
+## Why isn´t it comp. with <1.14.x 
+Easy. The code principe how the Mod worked before is differnent and more complicatet.
