@@ -6,6 +6,7 @@
 | Why isn´t it comp. with <1.14.x     | https://github.com/DanLP6-86/MoreItemsMod6/blob/Documentation/Support.md#why-isnt-it-comp-with-114x     |
 | . | . |
 | . | . |
+| Home                                | https://github.com/DanLP6-86/DanLP6-86.github.io/wiki/More-Items-Mod-(6)                                |
 
 
 
