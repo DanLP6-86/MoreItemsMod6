@@ -1,4 +1,13 @@
-# Suport for any Mod Version:
+# Register
+| Capture                     | Link             |
+| --------------------------- | ---------------- |
+| Support for any Mod Version |  |
+| 1.16.5           |  |
+| < 1.16.5         | any              |
+| < 1.15.x         | any              |
+| < 1.14.x         | any              |
+
+## Suport for any Mod Version:
 
 | Version of Forge | Version of Mod   | Support         |
 | ---------------- | ---------------- | --------------- |
