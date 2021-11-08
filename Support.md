@@ -28,3 +28,8 @@ This is an easy answer. As long as it isn´t possible to use the exact same code
 
 ## Why isn´t it comp. with <1.14.x 
 Easy. The code principe how the Mod worked before is differnent and more complicatet.
+
+
+
+# Home
+https://github.com/DanLP6-86/DanLP6-86.github.io/wiki/More-Items-Mod-(6)
