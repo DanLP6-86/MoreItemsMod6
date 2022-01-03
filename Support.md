@@ -1,4 +1,7 @@
 # Register
+
+## Here you can see the most important questions to this mod:
+
 | Capture                             | Link                                                                                                    |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Support for any Mod Version         | https://github.com/DanLP6-86/MoreItemsMod6/blob/Documentation/Support.md#suport-for-any-mod-version     |
