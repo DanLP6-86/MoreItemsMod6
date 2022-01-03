@@ -8,6 +8,9 @@ This Mod Contains Ruby which was removed before
 - crating recipies
 - fixed naturally ruby spawn (ruby crafting recepie exist anyway)
 - 
+
+Before you ask no you can´t download beta here right now. the mod has a beta stage. but its not ready to publish so please be patiant
+
 ![Capture](https://user-images.githubusercontent.com/83444480/140626917-a91fccdc-b727-427e-8065-553a8814389e.PNG)
 
 
