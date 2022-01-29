@@ -31,7 +31,7 @@
 
 ## Why isn´t it comp. with the 1.17.x
 
-This is an easy answer. As long as it isn´t possible to use the exact same code for 1.15.x-1.16.x and 1.17.x I´ll not have enough time and knowledge coding with the JDK 11. So please Understand my point. But there are also mods (which are compatible with mine) where you can play in 1.16.x as you were in 1.17(.x).
+This is an easy answer. As long as it isn´t possible to use the exact same code for 1.15.x-1.16.x and 1.17.x I´ll not have enough time and knowledge coding with the JDK 11. So please Understand my point. But there are also mods (which are compatible with mine) where you can play in 1.16.x as you were in 1.17(.x). In the future I´ll make required to install one of the mods (I´m not sure which) to provide a 1.17.x feeling. (The Mod I´m going to use is open-source and published on github.())
 
 
 ## Why isn´t it comp. with <1.14.x 
