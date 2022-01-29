@@ -1,13 +1,8 @@
 # MoreItemsMod6
 This Mod Contains Ruby which was removed before
 
-- ruby
-- ruby ore
-- ruby block
-- music disc
-- crating recipies
-- fixed naturally ruby spawn (ruby crafting recepie exist anyway)
-- 
+- no ruby biome -> just normal spawning
+- This version include (If I have time) a 1.17 mod a required. Than you can play mincraft in 1.16.x as you were in 1.17.x (-> what do you think about that? Let me know in Issues)
 
 Before you ask no you can´t download beta here right now. the mod has a beta stage. but its not ready to publish so please be patiant
 
